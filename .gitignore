@@ -5,6 +5,7 @@ out
 .docz
 tmp
 *.swp
+*.swp
 
 coverage
 allure-results
